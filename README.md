@@ -23,4 +23,5 @@ pip install zta-devtools
 
 ## 🚀 Usage
 
-- devtools_cli -h
+- zta-devtools -h
+
