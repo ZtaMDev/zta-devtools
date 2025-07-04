@@ -23,6 +23,5 @@ pip install zta-devtools
 
 ## 🚀 Usage
 
-> Use this command to see how you can do...
 - zta-devtools -h
 
