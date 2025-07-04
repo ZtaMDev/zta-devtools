@@ -1,6 +1,16 @@
 # Zta-DevTools CLI
 
+## 🛠️ Installation
+
+```bash
+pip install zta-devtools
+```
+
 DevTools CLI is a powerful command-line tool for Python developers. It helps manage environments, packages, vulnerabilities, and repetitive tasks with ease.
+
+## 🚀 Usage
+
+- zta-devtools -h
 
 ## Features
 
@@ -14,14 +24,4 @@ DevTools CLI is a powerful command-line tool for Python developers. It helps man
 - 🧰 Generate templates and documentation
 - 📊 View Python and system info
 - 🔭 Designed for productivity and clarity
-
-## 🛠️ Installation
-
-```bash
-pip install zta-devtools
-```
-
-## 🚀 Usage
-
-- zta-devtools -h
 
