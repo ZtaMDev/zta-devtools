@@ -2,7 +2,7 @@
 
 DevTools CLI is a powerful command-line tool for Python developers. It helps manage environments, packages, vulnerabilities, and repetitive tasks with ease.
 
-## ✨ Features
+## Features
 
 - 🔍 Scan project imports and auto-generate `requirements.txt`
 - 📦 Install, update, uninstall packages with progress bars
@@ -13,7 +13,7 @@ DevTools CLI is a powerful command-line tool for Python developers. It helps man
 - 👁️ Watch project files and auto-run commands
 - 🧰 Generate templates and documentation
 - 📊 View Python and system info
-- 🚀 Designed for productivity and clarity
+- 🔭 Designed for productivity and clarity
 
 ## 🛠️ Installation
 
